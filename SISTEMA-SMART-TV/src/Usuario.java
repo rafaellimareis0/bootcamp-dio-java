@@ -7,7 +7,6 @@ public class Usuario {
         System.out.println("Estado inicial da TV: " + smartTv.ligada);
 
         smartTv.diminuirVolume();
-        System.out.println(diminuirVolume);
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
